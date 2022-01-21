@@ -1,13 +1,3 @@
 # Software-Project-5-Assignment-1
 
-#This is my first assignment.
-
-I learened
-Repository initialization
-Adding files to git
-Checking git status
-Commit
-Commit message
-Creating remote repositiory
-Adding remote repository
-Pushing my local to remote repository
+What we learned in this lesson was very important to us. With GitHub learning, we can easily organize our projects. On the other hand, by creating a CV, we have so far understood our qualifications. So that we can motivate ourselves to make CV heavier.
